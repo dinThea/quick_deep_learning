@@ -2,7 +2,7 @@
 
 Here is everything I consider useful to apply machine learning on the verge of knowing whats happening inside your network.
 
-I'm using The HundredPage Machine Learning Book by Andriy Burkov (already a summary) as reference, so this guide is kinda summary of a summary. Do not take it as a scientific reference, just for learning.
+I'm using The HundredPage Machine Learning Book by Andriy Burkov (already a summary) as reference, so this guide is kinda summary of a summary. Do not take it for scientific purpose, just for learning.
 
 # Summary
 
